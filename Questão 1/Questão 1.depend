@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1491481077 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Quadrado.h"
+	"Triangulo.h"
+	"Circulo.h"
+	<string>
+
+1491480137 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<string>
+
+1491480137 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\include\figurageometrica.h
+	<string>
+
+1491479947 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\include\quadrado.h
+	"FiguraGeometrica.h"
+	<string>
+
+1491480610 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\src\quadrado.cpp
+	<iostream>
+	"Quadrado.h"
+
+1491480610 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\src\triangulo.cpp
+	<iostream>
+	"Triangulo.h"
+	<string>
+
+1491480270 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\include\triangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1491481047 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\src\circulo.cpp
+	<iostream>
+	"Circulo.h"
+	<string>
+
+1491481040 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 1\include\circulo.h
+	"FiguraGeometrica.h"
+	<string>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1491482768 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 2\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1491481710 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 2\src\funcionario.cpp
+	"Funcionario.h"
+
+1491481684 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 2\include\funcionario.h
+	<string>
+
+1491482652 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 2\src\consultor.cpp
+	<iostream>
+	"Consultor.h"
+	"Funcionario.h"
+
+1491482225 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 2\include\consultor.h
+	"Funcionario.h"
+

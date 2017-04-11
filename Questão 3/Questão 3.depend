@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1491912245 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\main.cpp
+	<iostream>
+	"Medico.h"
+	"Cirurgiao.h"
+	"Oftalmologista.h"
+	"Otorrino.h"
+
+1491912058 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\src\medico.cpp
+	"Medico.h"
+
+1491910205 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\include\medico.h
+	<string>
+
+1491912058 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\include\cirurgiao.h
+	"Medico.h"
+
+1491912058 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\src\cirurgiao.cpp
+	<iostream>
+	"Cirurgiao.h"
+	"Medico.h"
+
+1491912058 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\src\oftalmologista.cpp
+	"Oftalmologista.h"
+	"Medico.h"
+	<iostream>
+
+1491912058 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\include\oftalmologista.h
+	"Medico.h"
+
+1491911760 source:c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\src\otorrino.cpp
+	"Otorrino.h"
+	"Medico.h"
+	<iostream>
+
+1491911783 c:\users\aluno\desktop\roteiro 6\roteiro 7\questão 3\include\otorrino.h
+	"Medico.h"
+
